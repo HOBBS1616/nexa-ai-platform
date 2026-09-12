@@ -13,8 +13,6 @@ export const metadata: Metadata = {
   description: 'AI-Powered Contact Centre Intelligence for African Financial Institutions',
   keywords: 'NEXA, AI, Contact Centre, Banking, Nigeria, Financial Services, Customer Service',
   authors: [{ name: 'NEXA INNOVATIONS' }],
-  viewport: 'width=device-width, initial-scale=1',
-  themeColor: '#0284c7',
 };
 
 export default function RootLayout({
